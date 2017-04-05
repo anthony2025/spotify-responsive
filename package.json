@@ -1,0 +1,30 @@
+{
+  "name": "spotify-responsive",
+  "version": "1.0.0",
+  "description": "Reverse engineering an old version of the Spotify browse page",
+  "private": true,
+  "scripts": {
+    "build": "nwb build-react-app",
+    "clean": "nwb clean-app",
+    "start": "nwb serve-react-app --install --reload",
+    "test": "nwb test-react",
+    "test:coverage": "nwb test-react --coverage",
+    "test:watch": "nwb test-react --server"
+  },
+  "dependencies": {
+    "components": "^0.1.0",
+    "lodash": "^4.17.4",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "styles": "^0.2.1"
+  },
+  "devDependencies": {
+    "babel-plugin-react-html-attrs": "^2.0.0",
+    "nwb": "0.15.x",
+    "pizza-guy": "^1.4.1",
+    "postcss-cssnext": "^2.10.0"
+  },
+  "author": "",
+  "license": "MIT",
+  "repository": ""
+}

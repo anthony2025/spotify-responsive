@@ -1,0 +1,17 @@
+node_modules
+coverage
+build
+.DS_Store
+.env
+npm-debug.log
+Desktop.ini
+Thumbs.db
+.Spotlight-V100
+.Trashes
+.vscode
+jsconfig.json
+dist
+*.env
+bundle*
+npm-debug.log
+yarn-error.log
