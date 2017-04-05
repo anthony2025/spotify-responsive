@@ -1,4 +1,4 @@
-## In Progress
+### In Progress
 Reverse engineering an old version of the Spotify browse page.
 
 Live at https://spotify-responsive.herokuapp.com/
@@ -8,7 +8,7 @@ Live at https://spotify-responsive.herokuapp.com/
 * Rethink components
 * Add Charts album cards with css transforms
 
-<h2 align="center">Team Members</h2>
+### Team Members
 <table>
   <tbody>
     <tr>
