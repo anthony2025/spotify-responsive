@@ -1,11 +1,10 @@
 ### In Progress
 Reverse engineering an old version of the Spotify browse page.
 
-Live at https://spotify-responsive.herokuapp.com/
+Not yet live
 
 ### To Do
-* Refactor all css
-* Rethink components
+* Componentarize further
 * Add Charts album cards with css transforms
 
 ### Team Members
